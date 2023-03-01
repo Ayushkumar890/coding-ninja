@@ -1,0 +1,17 @@
+n = int(input())
+i = 1
+while i<=n:
+    spaces = 1
+    while spaces <=n-i:
+        print(" ",end  = "")
+        spaces +=1
+    j = 1
+    while j<=i:
+        print(j,end = "")
+        j = j+1
+    j = i-1
+    while j>= 1:
+        print(j,end = "")
+        j = j-1
+    print()
+    i= i+1
