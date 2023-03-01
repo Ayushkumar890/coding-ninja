@@ -1,1 +1,1 @@
-# scm1.practice
+# coding ninja introduction to python
