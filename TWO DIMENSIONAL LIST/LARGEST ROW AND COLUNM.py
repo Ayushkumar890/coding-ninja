@@ -41,7 +41,6 @@ import random
 
 
 
-
 # question 5
 # n = [x for x in input().split()]
 # a = random.sample(n , 1)
