@@ -24,9 +24,6 @@
 
 
 
-
-
-
 # from tkinter import *
 # top = Tk()
 # b = Button(top,text = "learn and earn")
