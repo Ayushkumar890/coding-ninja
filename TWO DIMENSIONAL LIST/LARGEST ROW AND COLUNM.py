@@ -15,8 +15,6 @@ import random
 ##print random value between two integer inclusive
 
 
-
-
 # #  print ramdom element from the list
 # n = [x for x in input().split()]
 # m = [x for x in input().split()]
